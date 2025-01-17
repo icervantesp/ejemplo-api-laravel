@@ -19,6 +19,7 @@ git config --global user.email "ibakcloud@gmail.com"
 git init 
 git remote add origin https://github.com/icervantesp/ejemplo-api-laravel.git
 ...
+
 ###  Comandos para subir
 ...
 git add .
